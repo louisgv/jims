@@ -1,0 +1,6 @@
+{
+	"name": "string",
+	"make": "string",
+	"model": "string",
+	"age": "number"
+}
